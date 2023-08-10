@@ -99,12 +99,18 @@ h1 {
 
 }
 
-.card-sucess button {
+.dismiss-button {
     width: 100%;
 }
 
 .icon-card-sucess {
     width: 50px;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
 }
 
 @media screen (max-width:768px) {
